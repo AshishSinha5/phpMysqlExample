@@ -10,7 +10,7 @@ Two folders are in this repository
        
       2.Example2
       
-        Before continuing import database 'isc' to your local database from 'isc.sql'
+        Before continuing import database 'isc' to your local database from 'isc.sql'(from Example2 folder)
                 
         This folder contains 3 Examples
         
